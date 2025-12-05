@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "id": "de1a49ed-0cec-4d15-8e78-60999bb42516",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "id": "eb96efd2-56bb-44dd-8cd4-6e8228185921",
+      "name": "med",
+      "email": "med@gmail.com",
+      "password": "medmed123",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "baume a lévres",
+      "price": 18.99,
+      "description": "Baume à lèvres : douceur et protection pour des lèvres parfaites",
+      "image": "./assets/images/products/baume.jpg",
+      "rating": 4.7,
+      "reviewCount": 89,
+      "category": "Makeup",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "bluch",
+      "price": 22.5,
+      "description": "Blush : une touche de couleur pour illuminer ton teint",
+      "image": "./assets/images/products/bluch.jpg",
+      "rating": 4.3,
+      "reviewCount": 156,
+      "category": "Skincare",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "créme de nuit",
+      "price": 45.99,
+      "description": "Crème de nuit : réparation et douceur pendant la nuit",
+      "image": "./assets/images/products/creme nuit.jpg",
+      "rating": 4.8,
+      "reviewCount": 203,
+      "category": "Makeup",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Mascara",
+      "price": 24.99,
+      "description": "Mascara : des cils plus longs et plus volumineux",
+      "image": "./assets/images/products/mascara.jpg",
+      "rating": 4.4,
+      "reviewCount": 178,
+      "category": "Makeup",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "palette",
+      "price": 39.99,
+      "description": "Palette : toutes les couleurs pour créer ton maquillage parfait",
+      "image": "./assets/images/products/palette.jpg",
+      "rating": 4.7,
+      "reviewCount": 245,
+      "category": "Skincare",
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "poudre",
+      "price": 32.99,
+      "description": "Poudre : matifier et fixer le maquillage pour un teint parfait",
+      "image": "./assets/images/products/poudre.jpg",
+      "rating": 4.5,
+      "reviewCount": 134,
+      "category": "Makeup",
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "verni",
+      "price": 49.99,
+      "description": "Vernis : brillance et style pour vos mains",
+      "image": "./assets/images/products/verni.jpg",
+      "rating": 4.8,
+      "reviewCount": 198,
+      "category": "Skincare",
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "name": "savon",
+      "price": 59.99,
+      "description": "Savon : nettoyer et adoucir la peau au quotidien",
+      "image": "./assets/images/products/savon.jpg",
+      "rating": 4.9,
+      "reviewCount": 276,
+      "category": "Tools",
+      "inStock": true
+    },
+    {
+      "id": "11",
+      "name": "serum",
+      "price": 19.99,
+      "description": "Sérum : concentré actif pour une peau éclatante et nourrie",
+      "image": "./assets/images/products/serum.jpg",
+      "rating": 4.3,
+      "reviewCount": 87,
+      "category": "Skincare",
+      "inStock": true
+    },
+    {
+      "id": "12",
+      "name": "shampoing",
+      "price": 24.99,
+      "description": "Shopping : se faire plaisir et trouver ses coups de cœur",
+      "image": "./assets/images/products/sampo.jpg",
+      "rating": 4.6,
+      "reviewCount": 156,
+      "category": "Makeup",
+      "inStock": true
+    },
+    {
+      "id": "13",
+      "name": "rouge",
+      "price": 12,
+      "description": "Rouge à lèvres : couleur et éclat pour des lèvres irrésistibles",
+      "image": "./assets/images/products/rouge.jpg",
+      "category": "makeup"
+    },
+    {
+      "id": "14",
+      "name": "baume main ",
+      "price": 18,
+      "description": "Baume pour les mains : nourrir et protéger la peau au quotidien",
+      "image": "./assets/images/products/main.jpg",
+      "category": "visage"
+    },
+    {
+      "id": "15",
+      "name": " font de teint",
+      "price": 18,
+      "description": "Fond de teint : unifier le teint pour une peau parfaite",
+      "image": "./assets/images/products/font.jpg",
+      "category": "visage"
+    },
+    {
+      "id": "16",
+      "name": " eau de parfum",
+      "price": 18,
+      "description": "Eau de parfum : fragrance élégante qui laisse une empreinte unique",
+      "image": "./assets/images/products/eau.jpg",
+      "category": "visage"
+    },
+    {
+      "id": "17",
+      "name": "déodorant",
+      "price": 18,
+      "description": "Déodorant : fraîcheur et protection toute la journée",
+      "image": "./assets/images/products/dedorant.jpg",
+      "category": "visage"
+    },
+    {
+      "id": "18",
+      "name": "lait de corps ",
+      "price": 18,
+      "description": "Lait de corps : hydrater et adoucir la peau en profondeur",
+      "image": "./assets/images/products/lait.jpg",
+      "category": "visage"
+    }
+  ],
+  "cart": [
+    {
+      "id": "8164",
+      "productId": "4",
+      "quantity": 2,
+      "name": "créme de nuit",
+      "price": 45.99,
+      "image": "./assets/images/products/creme nuit.jpg",
+      "inStock": true,
+      "description": "Crème de nuit : réparation et douceur pendant la nuit",
+      "rating": 4.8,
+      "reviewCount": 203,
+      "category": "Makeup"
+    },
+    {
+      "id": "1739",
+      "productId": "6",
+      "quantity": 1,
+      "name": "Mascara",
+      "price": 24.99,
+      "image": "./assets/images/products/mascara.jpg",
+      "inStock": true,
+      "description": "Mascara : des cils plus longs et plus volumineux",
+      "rating": 4.4,
+      "reviewCount": 178,
+      "category": "Makeup"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "efb0",
+      "userId": "1",
+      "productId": "2"
+    },
+    {
+      "id": "65fc",
+      "userId": "1",
+      "productId": "2"
+    },
+    {
+      "id": "8f0d",
+      "userId": "1",
+      "productId": "3"
+    },
+    {
+      "id": "b265",
+      "userId": "eb96efd2-56bb-44dd-8cd4-6e8228185921",
+      "productId": "3"
+    }
+  ]
+}
